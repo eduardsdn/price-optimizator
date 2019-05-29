@@ -1,0 +1,101 @@
+Type of the good,Name of the good,Price
+Игра PS4,Sony Жизнь После,4490
+Игра PS4,WB Mortal Kombat 11. Специальное Издание,3990
+Игра PS4,EA Anthem Limited Steelbook Edition,4490
+Игра PS4,WB Средиземье:Тени Войны,3490
+Игра PS4,Take Two Red Dead Redemption 2,4290
+Игра PS4,Bethesda Fallout 4. Game of the Year Edition,1990
+Игра PS4,Square Enix Rise of the Tomb Raider. 20-летний юбилей,1990
+Игра PS4,Capcom Street Fighter V,2990
+Игра PS4,Take Two Grand Theft Auto V,2990
+Игра PS4,EA FIFA 19,3990
+Игра PS4,Bethesda Fallout 76,3990
+Игра PS4,Focus Home A Plague Tale: Innocence,2990
+Игра PS4,Capcom Resident Evil 7:BiohazardVR,3990
+Игра PS4,Bandai Namco Dark Souls Remastered,2490
+Игра PS4,Bethesda RAGE 2,3990
+Игра PS4,Sony Uncharted: Натан Дрейк (Хиты PlayStation),1150
+Игра PS4,Sony Одни из нас. Обновленная версия (Хиты PlayStation),1350
+Игра PS4,Square Enix Final Fantasy XV Royal Edition,3190
+Игра PS4,EA UFC 3,3490
+Игра PS4,Sony Uncharted 4: Путь вора (Хиты PlayStation),1750
+Игра PS4,Activision Call of Cthulhu,1590
+Игра PS4,Ubisoft Assassin'S Creed Odyssey,3990
+Игра PS4,Ubisoft Just Dance 2019,2990
+Игра PS4,Bethesda Dishonored. Definitive Edition,2890
+Игра PS4,Square Enix Just Cause 4,2990
+Игра PS4,Sekiro: Shadows Die Twice,3990
+Игра PS4,Sony Человек-паук,3990
+Игра PS4,Ubisoft Tom Clancy's Ghost Recon Wildlands,1990
+Игра PS4,WB Mortal Kombat X (Хиты PlayStation),1350
+Игра PS4,Ubisoft Rayman Legends. Хиты PlayStation,1190
+Игра PS4,Bethesda DOOM,3990
+Игра PS4,Sony God of War,3990
+Игра PS4,WB Mad Max,3590
+Игра PS4,CD Projekt RED Ведьмак 3: Дикая Охота. Издание "Игра года",2790
+Игра PS4,Sony Minecraft. Playstation 4 Edition,1990
+Игра PS4,Bethesda Elder Scrolls V: Skyrim. Special Edition,1990
+Игра PS4,Sony LittleBigPlanet 3 (Хиты PlayStation),1350
+Игра PS4,Bethesda Prey,3990
+Игра PS4,Sony Дожить до рассвета (Хиты PlayStation),1350
+Игра PS4,Activision Call of Duty: WWII,3990
+Игра PS4,Sold Out PS4: Strange Brigade. Стандартное издание,1990
+Игра PS4,he Division 2,4490
+Игра PS4,Ubisoft Watch Dogs 2,1990
+Игра PS4,Deep Silver Метро:Исход Издание первого дня,3990
+Игра PS4,EA NHL 19,3990
+Игра PS4,Blizzard Diablo III:Reaper of Souls. Ultimate Evil Edition,1990
+Игра PS4,Sony Detroit: Стать человеком,3990
+Игра PS4,Ubisoft Far Cry 5,2990
+Игра PS4,Ubisoft Watch_Dogs. Хиты PlayStation,1190
+Игра PS4,Ubisoft Far Cry New Dawn,2990
+Игра PS4,Bandai Namco Jump Force,3990
+Игра PS4,EA Need For Speed Hits,1490
+Игра PS4,WB Средиземье: Тени Мордора,1990
+Игра PS4,Take Two Mafia III,799
+Игра PS4,Activision Call of Duty:Black Ops III Nuketown Edition,1990
+Игра PS4,THQ Nordic Darksiders III,3490
+Игра PS4,Ubisoft Assassin's Creed The Ezio Collection,1790
+Игра PS4,Bandai Namco SoulCalibur VI,3990
+Игра PS4,Dark Souls Trilogy,3990
+Игра PS4,Bandai Namco Naruto to Boruto: Shinobi Striker,3690
+Игра PS4,Ubisoft Assassin's Creed IV.Черный флаг. Хиты PlayStation,1190
+Игра PS4,Sony Ratchet & Clank (Хиты PlayStation),1350
+Игра PS4,Sony Killzone:В плену сумрака,1190
+Игра PS4,EA FIFA 18,2190
+Игра PS4,Devil May Cry 5,3790
+Игра PS4,Sony inFAMOUS: Второй сын (Хиты PlayStation),1350
+Игра PS4,WB HITMAN 2,3990
+Игра PS4,Bandai Namco 11-11: Memories Retold,1990
+Игра PS4,Sony Gran Turismo Sport,2590
+Игра PS4,Sony Shadow of the Colossus,2590
+Игра PS4,Bandai Namco Dark Souls III,1990
+Игра PS4,Sony Horizon Zero Dawn Complete Edition,3190
+Игра PS4,Square Enix Shadow of the Tomb Raider. Расширенное Издание,3990
+Игра PS4,Ubisoft Steep Winter Games Edition,1990
+Игра PS4,Sony Farpoint (только для VR),1350
+Игра PS4,Capcom Dead Rising 4,2990
+Игра PS4,Ubisoft Assassin's Creed Истоки,2990
+Игра PS4,WB Batman:Рыцарь Аркхема,1990
+Игра PS4,Sony Безумцы,1350
+Игра PS4,Ninja Theory Hellblade: Senua's Sacrifice,1999
+Игра PS4,Sony Bloodborne. Хиты PlayStation,1350
+Игра PS4,Sony Gravity Rush 2,2290
+Игра PS4,EA NHL 17,1490
+Игра PS4,Bethesda Fallout 76. Tricentennial Edition,4490
+Игра PS4,Ubisoft Assassin's Creed Синдикат Специальное издание,2590
+Игра PS4,EA Star Wars Battlefront 2,2190
+Игра PS4,EA The Sims 4,2790
+Игра PS4,Ubisoft Far Cry 3 Classic Edition,1490
+Игра PS4,Konami Pro Evolution Soccer 2019,3790
+Игра PS4,Focus Home Vampyr,3990
+Игра PS4,Codemasters Dirt 4. Издание первого дня,1990
+Игра PS4,Activision Call of Duty:Black Ops 4,3990
+Игра PS4,Square Enix Life is Strange: Before the Storm,990
+Игра PS4,Sony Driveclub (Хиты PlayStation),1350
+Игра PS4,WB Injustice: Gods Among Us Ultimate Edition,1990
+Игра PS4,Sony Hustle Kings (поддержка VR),1190
+Игра PS4,Bandai Namco God Eater 3,3999
+Игра PS4,Capcom Marvel vs. Capcom: Infinite,3790
+Игра PS4,THQ Nordic Red Faction Guerrilla Re-Mars-tered,1890
+Игра PS4,Capcom Resident Evil 2,3790

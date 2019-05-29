@@ -1,14 +1,13 @@
-def read_data(file_name):
+def read_data_store(file_path): #reads pricelist.txt
     data = []
-        f = open(file_name)
-        f.read()
+    with open(file_path, "r") as f:
+        f.readline()
+        for line in f:
+            parts = line.split(",")
+            row = [parts[0], parts[1],int(parts[2])]
+
+            data.append(row)
+
     return data
 
-
-data = read_data('Price_optimizator.txt')
-for i in range(2):
-    print(data[i])
-
-encoding
-
-#Just testing out GitHub
+pricelist = read_data_store("Price_optimizator.txt") #matrix with pricelist
