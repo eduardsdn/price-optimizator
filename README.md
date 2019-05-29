@@ -1,1 +1,1 @@
-# price-optimizator
+# Price-optimizator
