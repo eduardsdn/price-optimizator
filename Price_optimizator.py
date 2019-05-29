@@ -10,3 +10,5 @@ for i in range(2):
     print(data[i])
 
 encoding
+
+#Just testing out GitHub
