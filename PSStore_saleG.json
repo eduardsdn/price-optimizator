@@ -1,0 +1,437 @@
+{
+    "PlayStationStore": {
+        "Games": {
+            "PS4": [
+                {
+                    "name": "Sony Жизнь После",
+                    "price": 3999
+                },
+                {
+                    "name": "WB Mortal Kombat 11. Специальное Издание",
+                    "price": 3990
+                },
+                {
+                    "name": "EA Anthem Limited Steelbook Edition",
+                    "price": 3499
+                },
+                {
+                    "name": "WB Средиземье:Тени Войны",
+                    "price": 990
+                },
+                {
+                    "name": "Take Two Red Dead Redemption 2",
+                    "price": 2990
+                },
+                {
+                    "name": "Bethesda Fallout 4. Game of the Year Edition",
+                    "price": 499
+                },
+                {
+                    "name": "Square Enix Rise of the Tomb Raider. 20-летний юбилей",
+                    "price": 1390
+                },
+                {
+                    "name": "Capcom Street Fighter V",
+                    "price": 3490
+                },
+                {
+                    "name": "Take Two Grand Theft Auto V",
+                    "price": 1999
+                },
+                {
+                    "name": "EA FIFA 19",
+                    "price": 2499
+                },
+                {
+                    "name": "Bethesda Fallout 76",
+                    "price": 3990
+                },
+                {
+                    "name": "Focus Home A Plague Tale: Innocence",
+                    "price": 2990
+                },
+                {
+                    "name": "Capcom Resident Evil 7:Biohazard VR",
+                    "price": 799
+                },
+                {
+                    "name": "Bandai Namco Dark Souls Remastered",
+                    "price": 2490
+                },
+                {
+                    "name": "Bethesda RAGE 2",
+                    "price": 3990
+                },
+                {
+                    "name": "Sony Uncharted: Натан Дрейк (Хиты PlayStation)",
+                    "price": 1350
+                },
+                {
+                    "name": "Sony Одни из нас. Обновленная версия (Хиты PlayStation)",
+                    "price": 1350
+                },
+                {
+                    "name": "Square Enix Final Fantasy XV Royal Edition",
+                    "price": 2499
+                },
+                {
+                    "name": "EA UFC 3",
+                    "price": 1299
+                },
+                {
+                    "name": "Sony Uncharted 4: Путь вора (Хиты PlayStation)",
+                    "price": 1350
+                },
+                {
+                    "name": "Activision Call of Cthulhu",
+                    "price": 1590
+                },
+                {
+                    "name": "Ubisoft Assassin'S Creed Odyssey",
+                    "price": 2499
+                },
+                {
+                    "name": "Ubisoft Just Dance 2019",
+                    "price": 1599
+                },
+                {
+                    "name": "Bethesda Dishonored. Definitive Edition",
+                    "price": 2890
+                },
+                {
+                    "name": "Square Enix Just Cause 4",
+                    "price": 2990
+                },
+                {
+                    "name": "Sekiro: Shadows Die Twice",
+                    "price": 1599
+                },
+                {
+                    "name": "Sony Человек-паук",
+                    "price": 3990
+                },
+                {
+                    "name": "Ubisoft Tom Clancy's Ghost Recon Wildlands",
+                    "price": 1990
+                },
+                {
+                    "name": "WB Mortal Kombat X (Хиты PlayStation)",
+                    "price": 1350
+                },
+                {
+                    "name": "Ubisoft Rayman Legends. Хиты PlayStation",
+                    "price": 1190
+                },
+                {
+                    "name": "Bethesda DOOM",
+                    "price": 1299
+                },
+                {
+                    "name": "Sony God of War",
+                    "price": 2990
+                },
+                {
+                    "name": "WB Mad Max",
+                    "price": 1299
+                },
+                {
+                    "name": "CD Projekt RED Ведьмак 3: Дикая Охота. Издание Игра года",
+                    "price": 799
+                },
+                {
+                    "name": "Sony Minecraft. Playstation 4 Edition",
+                    "price": 1990
+                },
+                {
+                    "name": "Bethesda Elder Scrolls V: Skyrim. Special Edition",
+                    "price": 799
+                },
+                {
+                    "name": "Sony LittleBigPlanet 3 (Хиты PlayStation)",
+                    "price": 1350
+                },
+                {
+                    "name": "Bethesda Prey",
+                    "price": 3990
+                },
+                {
+                    "name": "Sony Дожить до рассвета (Хиты PlayStation)",
+                    "price": 1350
+                },
+                {
+                    "name": "Activision Call of Duty: WWII",
+                    "price": 2250
+                },
+                {
+                    "name": "Sold Out PS4: Strange Brigade. Стандартное издание",
+                    "price": 1990
+                },
+                {
+                    "name": "The Division 2",
+                    "price": 2590
+                },
+                {
+                    "name": "Ubisoft Watch Dogs 2",
+                    "price": 1990
+                },
+                {
+                    "name": "Deep Silver Метро:Исход Издание первого дня",
+                    "price": 2599
+                },
+                {
+                    "name": "EA NHL 19",
+                    "price": 1299
+                },
+                {
+                    "name": "Blizzard Diablo III:Reaper of Souls. Ultimate Evil Edition",
+                    "price": 1990
+                },
+                {
+                    "name": "Sony Detroit: Стать человеком",
+                    "price": 2599
+                },
+                {
+                    "name": "Ubisoft Far Cry 5",
+                    "price": 1250
+                },
+                {
+                    "name": "Ubisoft Watch_Dogs. Хиты PlayStation",
+                    "price": 1190
+                },
+                {
+                    "name": "Ubisoft Far Cry New Dawn",
+                    "price": 2990
+                },
+                {
+                    "name": "Bandai Namco Jump Force",
+                    "price": 3990
+                },
+                {
+                    "name": "EA Need For Speed Hits",
+                    "price": 1490
+                },
+                {
+                    "name": "WB Средиземье: Тени Мордора",
+                    "price": 1990
+                },
+                {
+                    "name": "Take Two Mafia III",
+                    "price": 1199
+                },
+                {
+                    "name": "Activision Call of Duty:Black Ops III Nuketown Edition",
+                    "price": 1990
+                },
+                {
+                    "name": "THQ Nordic Darksiders III",
+                    "price": 2990
+                },
+                {
+                    "name": "Ubisoft Assassin's Creed The Ezio Collection",
+                    "price": 1790
+                },
+                {
+                    "name": "Bandai Namco SoulCalibur VI",
+                    "price": 3990
+                },
+                {
+                    "name": "Dark Souls Trilogy",
+                    "price": 2990
+                },
+                {
+                    "name": "Bandai Namco Naruto to Boruto: Shinobi Striker",
+                    "price": 3690
+                },
+                {
+                    "name": "Ubisoft Assassin's Creed IV.Черный флаг. Хиты PlayStation",
+                    "price": 1190
+                },
+                {
+                    "name": "Sony Ratchet & Clank (Хиты PlayStation)",
+                    "price": 1350
+                },
+                {
+                    "name": "Sony Killzone:В плену сумрака",
+                    "price": 799
+                },
+                {
+                    "name": "EA FIFA 18",
+                    "price": 799
+                },
+                {
+                    "name": "Devil May Cry 5",
+                    "price": 2299
+                },
+                {
+                    "name": "Sony inFAMOUS: Второй сын (Хиты PlayStation)",
+                    "price": 1350
+                },
+                {
+                    "name": "WB HITMAN 2",
+                    "price": 1990
+                },
+                {
+                    "name": "Bandai Namco 11-11: Memories Retold",
+                    "price": 1990
+                },
+                {
+                    "name": "Sony Gran Turismo Sport",
+                    "price": 1590
+                },
+                {
+                    "name": "Sony Shadow of the Colossus",
+                    "price": 2590
+                },
+                {
+                    "name": "Bandai Namco Dark Souls III",
+                    "price": 1290
+                },
+                {
+                    "name": "Sony Horizon Zero Dawn Complete Edition",
+                    "price": 3190
+                },
+                {
+                    "name": "Square Enix Shadow of the Tomb Raider. Расширенное Издание",
+                    "price": 2590
+                },
+                {
+                    "name": "Ubisoft Steep Winter Games Edition",
+                    "price": 1990
+                },
+                {
+                    "name": "Sony Farpoint (только для VR)",
+                    "price": 1350
+                },
+                {
+                    "name": "Capcom Dead Rising 4",
+                    "price": 799
+                },
+                {
+                    "name": "Ubisoft Assassin's Creed Истоки",
+                    "price": 1290
+                },
+                {
+                    "name": "WB Batman:Рыцарь Аркхема",
+                    "price": 1990
+                },
+                {
+                    "name": "Sony Безумцы",
+                    "price": 1350
+                },
+                {
+                    "name": "Ninja Theory Hellblade: Senua's Sacrifice",
+                    "price": 1999
+                },
+                {
+                    "name": "Sony Bloodborne. Хиты PlayStation",
+                    "price": 599
+                },
+                {
+                    "name": "Sony Gravity Rush 2",
+                    "price": 2290
+                },
+                {
+                    "name": "EA NHL 17",
+                    "price": 299
+                },
+                {
+                    "name": "Bethesda Fallout 76. Tricentennial Edition",
+                    "price": 3599
+                },
+                {
+                    "name": "Ubisoft Assassin's Creed Синдикат Специальное издание",
+                    "price": 2590
+                },
+                {
+                    "name": "EA Star Wars Battlefront 2",
+                    "price": 2190
+                },
+                {
+                    "name": "EA The Sims 4",
+                    "price": 1299
+                },
+                {
+                    "name": "Ubisoft Far Cry 3 Classic Edition",
+                    "price": 1490
+                },
+                {
+                    "name": "Konami Pro Evolution Soccer 2019",
+                    "price": 2950
+                },
+                {
+                    "name": "Focus Home Vampyr",
+                    "price": 2950
+                },
+                {
+                    "name": "Codemasters Dirt 4. Издание первого дня",
+                    "price": 1990
+                },
+                {
+                    "name": "Activision Call of Duty:Black Ops 4",
+                    "price": 1599
+                },
+                {
+                    "name": "Square Enix Life is Strange: Before the Storm",
+                    "price": 990
+                },
+                {
+                    "name": "Sony Driveclub (Хиты PlayStation)",
+                    "price": 1350
+                },
+                {
+                    "name": "WB Injustice: Gods Among Us Ultimate Edition",
+                    "price": 799
+                },
+                {
+                    "name": "Sony Hustle Kings (поддержка VR)",
+                    "price": 1190
+                },
+                {
+                    "name": "Bandai Namco God Eater 3",
+                    "price": 3990
+                },
+                {
+                    "name": "Capcom Marvel vs. Capcom: Infinite",
+                    "price": 1290
+                },
+                {
+                    "name": "THQ Nordic Red Faction Guerrilla Re-Mars-tered",
+                    "price": 1890
+                },
+                {
+                    "name": "Capcom Resident Evil 2",
+                    "price": 1590
+                },
+                {
+                    "name": "WB Rocket League Collector's Edition",
+                    "price": 1790
+                },
+                {
+                    "name": "Sony Arizona Sunshine (только для VR)",
+                    "price": 990
+                },
+                {
+                    "name": "Square Enix Murdered: Soul Suspect",
+                    "price": 1190
+                },
+                {
+                    "name": "Bandai Namco Ace Combat 7: Skies Unknown",
+                    "price": 3990
+                },
+                {
+                    "name": "EA Mass Effect Andromeda",
+                    "price": 1490
+                },
+                {
+                    "name": "Sony No Man's Sky",
+                    "price": 2290
+                },
+                {
+                    "name": "Sony inFAMOUS: Первый свет",
+                    "price": 1190
+                }
+            ]
+        }
+
+    }
+}
